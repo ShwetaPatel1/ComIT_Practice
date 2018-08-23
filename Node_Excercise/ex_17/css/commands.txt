@@ -1,0 +1,11 @@
+npm install -g sass
+sass -version
+create a input file with .scss extension and put sass classes and play with variable part
+create an empty output file with .css extension (this file will contain final css)
+-----------------
+change directory to the one which contains those files(here it's CSS folder)
+run following command
+sass input.scss output.css
+and you are done
+-------------
+or you can run 'sass' command for compilation with full path of both input and output files
